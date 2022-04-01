@@ -45,3 +45,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 "# music-ui" 
+
+![image](https://user-images.githubusercontent.com/74899582/161237938-9cb398b9-4380-4955-a62f-ada695d7aebc.png)
+![image](https://user-images.githubusercontent.com/74899582/161238247-3cd210de-b3dd-4d56-bc2c-bb774f9b7778.png)
+![image](https://user-images.githubusercontent.com/74899582/161238025-4dfce420-0ec1-4cfc-b6d0-d5257fd3539c.png)
+![image](https://user-images.githubusercontent.com/74899582/161238103-7c1f097b-92e2-47c2-bec5-147f84ddcb6d.png)
+![image](https://user-images.githubusercontent.com/74899582/161238181-f63b2608-7506-4280-b490-e01d154d9b29.png)
+
+
